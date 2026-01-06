@@ -1,9 +1,3 @@
-Absolutely — here is a clean, polished **English version** of the GitHub organization README, based on the same structure as the Chinese draft but written natively for an international audience.
-
-If you'd like it to sound more formal, more marketing‑driven, or more minimalistic, I can adjust it anytime.
-
----
-
 # 🌐 AterDev Organization
 
 AterDev is a developer‑focused organization dedicated to building **high‑quality .NET tooling, rapid development templates, documentation systems, and engineering‑oriented utilities**. Our mission is to help developers create modern web applications and services with greater speed, clarity, and maintainability.
